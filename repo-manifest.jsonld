@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rthalley/dnspython/commit/68f8eb23106026eee0532a494bde74dd8cad6c3f",
       "git:hexsha": "68f8eb23106026eee0532a494bde74dd8cad6c3f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rthalley/dnspython/commit/7702ddde24a57bfa292fda2131b5037c7fce6d0a",
