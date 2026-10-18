@@ -1,0 +1,11 @@
+{
+  "org": "rthalley",
+  "repo": "dnspython",
+  "versions": [
+    {
+      "commit": "68f8eb23106026eee0532a494bde74dd8cad6c3f",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:22:00.265426+00:00"
+    }
+  ]
+}
